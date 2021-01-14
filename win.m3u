@@ -1,4 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://e4.stephn.xyz/ingest013/66602.m3u8?sf=ME1GdjRmSVRCSg==&token=R-PhHO2mu6n7IOUJF1AsEg&expires=1610599172&rnd=
+#EXTINF:-1 ,win+
+
+https://e4.stephn.xyz/ingest013/66602.m3u8?sf=ME1GdjRmSVRCSg==&token=R-PhHO2mu6n7IOUJF1AsEg&expires=1610599172&rnd=
